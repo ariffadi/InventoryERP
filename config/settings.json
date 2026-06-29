@@ -1,0 +1,9 @@
+{
+    "appearance_mode": "System",
+    "confirm_delete": true,
+    "enable_notification": true,
+    "auto_refresh_dashboard": true,
+    "auto_open_excel": false,
+    "default_export_folder": "",
+    "database_path": "database/inventory.db"
+}
